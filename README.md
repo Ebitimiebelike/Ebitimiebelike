@@ -36,6 +36,12 @@ Full Stack Software Engineering Student | Focused on Building High-Performance W
 </p>
 
 ---
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]linkedin.com/in/ebitimiebelike-23469836a
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebelikeebitimi6678@gmail.com)
+
+---
 
 ### 💬 Quote
 > "There are two ways to write error-free programs; only the third one works." – Alan J. Perlis
